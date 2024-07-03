@@ -6,7 +6,7 @@
 body{
 	width: 100%;
 	min-height: 100vh;
-	background: linear-gradient(rgba(0,0,0, 0.7), #3551b2), url(../images/background.jpg);
+	background: linear-gradient(rgba(0,0,0, 0.7), #3551b2), url(background.jpg);
     font-family: Helvetica, sans-serif;
 	justify-content: center;
 	align-items: center;
